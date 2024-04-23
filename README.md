@@ -11,6 +11,10 @@
 - **DishDive**: An iOS app where users can create, store, and share recipes. Built with Swift. [Visit Repo](https://github.com/Pzychopomp/DishDive)
 - **Endless Productions**: A showcase of my work and skills built with React, node.js, and mongodb. [Visit Repo](https://github.com/MarioCampos555/CapstoneProject-)
 
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/henrycngo/)
+
+Feel free to connect with me for collaborations or just a chat about technology and software development!
 <!--
 **imHenii/imHenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
